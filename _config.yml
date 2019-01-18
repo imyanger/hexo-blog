@@ -2,6 +2,8 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+
+
 # Site
 title: 杨号个人博客
 subtitle:
@@ -78,7 +80,9 @@ theme: BlueLake
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: git@//github.com:imyanger/imyanger.github.io.git
+  branch: master
 
 stylus:
   compress: true
