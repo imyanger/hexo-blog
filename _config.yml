@@ -5,8 +5,8 @@
 
 
 # Site
-title: 杨号个人博客
-subtitle:
+title: 杨小格子的小窝
+subtitle: 也曾梦想仗剑走天涯，后来bug太多没去成
 description: 杨号个人博客——hexo搭建的个人博客
 keywords: java, JavaScript, vue, javaWeb
 author: imyanger
@@ -15,7 +15,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://imyanger.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

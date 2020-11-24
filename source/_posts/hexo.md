@@ -1,9 +1,28 @@
 ---
-title: Hello World
+title: hexo 博客搭建
+date: 2018-11-24 23:22:54
+tags: 
+    - hexo
+categories:
+    - hexo
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
+
+
+### init hexo project
+
+``` node
+npm install -g hexo-cli
+```
+
+``` node
+hexo init  //在本地生成hexo模板
+```
+
+``` node
+hexo server 
+```
 
 ### Create a new post
 
